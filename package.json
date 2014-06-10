@@ -5,10 +5,10 @@
   "keywords": ["passport", "oauth", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth.git"
+    "url": "git://github.com/andreskir/passport-oauth.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth/issues"
+    "url": "http://github.com/andreskir/passport-oauth/issues"
   },
   "author": {
     "name": "Jared Hanson",
