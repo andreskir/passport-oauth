@@ -1,5 +1,5 @@
 {
-  "name": "passport-oauth",
+  "name": "passport-oauth-no-web-server",
   "version": "0.1.15",
   "description": "OAuth 1.0 and 2.0 authentication strategies for Passport.",
   "keywords": ["passport", "oauth", "auth", "authn", "authentication"],
@@ -17,13 +17,13 @@
   },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib/passport-oauth",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport": "~0.1.1",
-    "oauth": "git+https://github.com/andreskir/node-oauth"
+    "oauth-no-web-server": "0.9.11"
   },
   "devDependencies": {
     "vows": "0.6.x"
